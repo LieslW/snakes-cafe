@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a6c09e8-3232-48bf-82fe-ef894798d9d8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/snakes_cafe.py" beforeDir="false" afterPath="$PROJECT_DIR$/snakes_cafe.py" afterDir="false" />
-    </list>
+    <list default="true" id="5a6c09e8-3232-48bf-82fe-ef894798d9d8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658171096406</updated>
       <workItem from="1658171099342" duration="2917000" />
-      <workItem from="1658178568047" duration="3112000" />
+      <workItem from="1658178568047" duration="3380000" />
     </task>
     <servers />
   </component>
